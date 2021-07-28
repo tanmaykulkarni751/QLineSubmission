@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.Profile {
+    display: relative;
+    width: 250px;
+}
+
+#icon {
+    float: left;
+}
+
+#name {
+    float: right;
+    font-size: 40px;
+    font-family: 'Roboto', 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,47 @@
+.AppHeading
+{
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 130px;
+    margin-right: auto;
+    margin-left: 30px;
+    padding-top: 0cm;
+    color: #14FFEC;
+    line-height-step: 0.01cm;
+
+}
+
+.Slogan 
+{
+    font-family: 'JetBrains Mono', monospace;
+    font-style: italic;
+    font-size: 70px;
+    margin-right: auto;
+    margin-left: 90px;
+    padding-top: 0.2cm;
+    color: #0D7377;
+}
+
+.Welcome
+{
+    font-family: 'JetBrains Mono', monospace;
+    font-style: normal;
+    font-size: 55px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 3cm;
+    color: #ffffff;
+}
+
+.Day
+{
+    font-family: 'JetBrains Mono', monospace;
+    font-style: normal;
+    font-size: 55px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 0.3cm;
+    color: #ffffff;
+}
+

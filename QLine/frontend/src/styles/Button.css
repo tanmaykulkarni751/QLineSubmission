@@ -1,0 +1,16 @@
+.LogButton 
+{
+    align-self: center;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 50px;
+}
+
+.ButtonStyle
+{
+    background-color: #1814ff;
+    font-family: 'JetBrains Mono', monospace;
+    border-radius: 20px;
+    font-size: 50px;
+}

@@ -1,0 +1,19 @@
+@media all and (min-width: 480px) {
+    .Header {
+        font-size: 75px;
+        text-align: center;    
+        padding: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        color: #141E61;
+    }
+
+    .Login {
+      padding: 25px 0;
+      font-family: 'Courier New', Courier, monospace;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+}
